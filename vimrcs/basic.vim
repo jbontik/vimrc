@@ -438,4 +438,4 @@ endfunction
 
  " execute pathogen makes it super easy to install plugins and runtime files in their own private directories.
  " https://github.com/tpope/vim-pathogen
- " execute pathogen#infect()
+execute pathogen#infect()
